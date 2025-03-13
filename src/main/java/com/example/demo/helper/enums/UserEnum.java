@@ -1,2 +1,7 @@
-package com.example.demo.helper.enums;public class UserEnum {
+package com.example.demo.helper.enums;
+
+public enum UserEnum {
+    CLIENT,
+    DELIVERYMAN
+
 }
